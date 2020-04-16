@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "author": "好傻好天真",
+  "homepage": "https://github.com/zmide/sketch_layertreeround",
+  "commands": [
+    {
+      "name": "图层树轮化",
+      "identifier": "layertreeround.my-command-identifier",
+      "script": "./my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "图层树轮化",
+    "items": [
+      "layertreeround.my-command-identifier"
+    ]
+  }
+}
