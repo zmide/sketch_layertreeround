@@ -1,7 +1,7 @@
 {
   "name": "layertreeround",
   "description": "该工具可以把你选中的图层复制一些像树轮一样的副本",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "sketch": ">=49.0"
   },
